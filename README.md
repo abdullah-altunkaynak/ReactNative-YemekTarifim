@@ -8,3 +8,4 @@ used technologies './kaynaklar.txt'
   5- Lottie paketi -> https://github.com/lottie-react-native/lottie-react-native
   6- Read more paketi -> npm i react-native-read-more-text --save
 }
+![](https://github.com/abdullah-altunkaynak/ReactNative-YemekTarifim/blob/main/yemektarifim.gif)
