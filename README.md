@@ -1,4 +1,5 @@
 # ReactNative-YemekTarifim
+https://app.patika.dev/devabdullah
 used technologies './kaynaklar.txt'
 {
   1- React Navigation -> https://reactnavigation.org/
